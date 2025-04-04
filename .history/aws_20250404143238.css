@@ -1,0 +1,30 @@
+body {
+    font-family: 'Cairo', sans-serif;
+    background-color: #fefefe;
+  }
+  
+  img {
+    height: 250px;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  .hero-section {
+    height: 100vh;
+    overflow: hidden;
+  }
+  
+  .hero-img {
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .overlay {
+    background-color: rgba(0, 0, 0, 0.5); /* ظل غامق نصف شفاف */
+    z-index: 1;
+  }
+  
+  .hero-text {
+    z-index: 2;
+  }
+  
+  

@@ -1,0 +1,11 @@
+body {
+    font-family: 'Cairo', sans-serif;
+    background-color: #fefefe;
+  }
+  
+  img {
+    height: 250px;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
